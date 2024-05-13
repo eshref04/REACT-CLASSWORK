@@ -1,0 +1,15 @@
+.header__start .header__start__left li a{
+text-decoration: none ;
+color: black;
+}
+
+
+
+.header__end a{
+    text-decoration: none;
+    color: black;
+}
+
+.header__start{
+    background-color: #f9f9ff;
+}

@@ -1,0 +1,32 @@
+{
+    "games":[
+        {
+            "id": "1",
+            "title": "Red Dead Redemption 2",
+            "price": 29.99,
+            "category": "Action,Adventure",
+            "image": "https://m.media-amazon.com/images/I/81dKP+iFloL.jpg"
+        },
+        {
+            "id": "2",
+            "title": "Cyberpunk 2077",
+            "price": 25.99,
+            "category": "Action,Role Playing",
+            "image": "https://m.media-amazon.com/images/I/81YptknEr3L._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": "3",
+            "title": "Detroit: Become Human",
+            "price": 20.99,
+            "category": "Adventure",
+            "image": "https://acdn.mitiendanube.com/stores/353/484/products/base1-2a19079780c2d98a1015873223994284-640-0.jpg"
+        },
+        {
+            "id": "4",
+            "title": "Barbie",
+            "price": 4,
+            "category": "Girl",
+            "image": "https://3.bp.blogspot.com/-tO1Yd_xxEGM/XlTOZDy1ylI/AAAAAAAAZAM/KIEWHtrnN0wjzChP6TQtqHt9rp6xPTSFwCLcBGAsYHQ/s1600/13.jpg"
+        }
+    ]
+}
